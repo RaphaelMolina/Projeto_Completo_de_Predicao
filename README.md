@@ -6,4 +6,4 @@ Projeto Completo de Predição no Google Colab.
 
 Vídeo de apresentação:
 
-[![Vídeo de apresentação](https://img.youtube.com/vi/???/maxresdefault.jpg)](https://youtu.be/??? "Apresentação")
+[![Vídeo de apresentação](https://img.youtube.com/vi/gqXvGD0rWUM/maxresdefault.jpg)](https://youtu.be/gqXvGD0rWUM "Apresentação")
